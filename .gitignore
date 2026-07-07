@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+
+# Output
+output/
+
+# VSCode
+.vscode/
+
+# Windows
+Thumbs.db
